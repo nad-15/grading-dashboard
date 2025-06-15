@@ -17,4 +17,4 @@ This is a simple Student Grading System designed to manage student records and c
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-grading-system.git
+   git clone https://github.com/nad-15/grading-dashboard.git
